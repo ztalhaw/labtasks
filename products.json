@@ -1,0 +1,14 @@
+[
+ {"id":1,"name":"Moss Ceramic Mug","price":1450,"category":"Home","rating":4.8,"inStock":true,"emoji":"☕","description":"A comforting everyday mug with a calm, earthy feel."},
+ {"id":2,"name":"Pocket Garden Planter","price":1850,"category":"Garden","rating":4.9,"inStock":true,"emoji":"🪴","description":"A little home for a favourite plant, perfect for a sunny windowsill."},
+ {"id":3,"name":"Forest Notes Journal","price":950,"category":"Desk","rating":4.6,"inStock":true,"emoji":"📗","description":"A simple notebook for thoughts, lists, sketches, and fresh ideas."},
+ {"id":4,"name":"Woven Market Tote","price":2200,"category":"Accessories","rating":4.7,"inStock":true,"emoji":"👜","description":"A roomy tote for errands and everyday essentials."},
+ {"id":5,"name":"Sage Desk Organizer","price":1750,"category":"Desk","rating":4.4,"inStock":true,"emoji":"🗂️","description":"Give your desk a little breathing room."},
+ {"id":6,"name":"Botanical Candle","price":1250,"category":"Home","rating":4.5,"inStock":true,"emoji":"🕯️","description":"A soft, cosy accent for slow evenings and quiet corners."},
+ {"id":7,"name":"Mini Watering Can","price":1600,"category":"Garden","rating":4.3,"inStock":true,"emoji":"🚿","description":"A practical helper for tending to indoor plants."},
+ {"id":8,"name":"Leaf Print Pouch","price":850,"category":"Accessories","rating":4.2,"inStock":true,"emoji":"👝","description":"Keep small everyday items together in a compact pouch."},
+ {"id":9,"name":"Recycled Paper Set","price":700,"category":"Desk","rating":4.1,"inStock":true,"emoji":"📒","description":"A handy set for notes, reminders, and creative projects."},
+ {"id":10,"name":"Woodland Coaster Set","price":1100,"category":"Home","rating":4.7,"inStock":true,"emoji":"🪵","description":"A natural-looking set of everyday coasters."},
+ {"id":11,"name":"Plant Care Kit","price":2450,"category":"Garden","rating":4.8,"inStock":false,"emoji":"🌱","description":"A starter kit for keeping indoor greenery happy."},
+ {"id":12,"name":"Canvas Everyday Cap","price":1350,"category":"Accessories","rating":4.0,"inStock":true,"emoji":"🧢","description":"A relaxed cap for everyday outings."}
+]
